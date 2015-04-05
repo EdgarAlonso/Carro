@@ -2,3 +2,5 @@ Clase Llanta
 
 4 llantas
 Marca Michellin
+Color negro
+radio 20
