@@ -1,1 +1,3 @@
-Color negro
+Color rojo
+Numero 4
+Portabasos
