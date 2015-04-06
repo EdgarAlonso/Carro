@@ -4,3 +4,4 @@ Clase Llanta
 Marca Michellin
 Color negro
 radio 20
+Material caucho
